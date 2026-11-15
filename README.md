@@ -79,4 +79,4 @@ Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICE
 
 This framework reflects governance practices I designed and chaired for enterprise AI product delivery — covering Generative AI, RAG, and AI agent solutions — in a regulated communications environment. Details here are generalized for public sharing. It is a starting point to adapt, and it is not legal or regulatory advice.
 
-[LinkedIn](https://linkedin.com/in/imranazhar) · [imranazharsheikh@gmail.com](mailto:imranazharsheikh@gmail.com)
+[LinkedIn](https://linkedin.com/in/imranazhar) 
