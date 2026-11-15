@@ -81,6 +81,8 @@ This gate looks at real usage data from the pilot — did people actually use it
 | 5. Operational Acceptance | IT Operations lead | Service owner |
 | 6. Scaling Decision | Executive sponsor / Steering committee | Head of AI, original business sponsor |
 
+The complete version, with Responsible and Informed parties and a view by role, is in [raci.md](raci.md).
+
 *(In a smaller organization, one or two people may hold several of these roles — the point is that someone independent of "just wanting to ship it" signs off each gate, not that six different departments are required.)*
 
 ---
@@ -89,5 +91,12 @@ This gate looks at real usage data from the pilot — did people actually use it
 
 1. Use the checklist template in `/templates/stage-gate-checklist-template.md` for every AI project, however small.
 2. A project cannot start work on the next stage until its current gate is marked passed.
-3. Gates can move quickly for small/low-risk projects — this isn't meant to be bureaucratic. A gate can be "passed" in a 15-minute conversation for a low-risk idea, and take a full committee review for a high-risk, organization-wide one. The rigor should scale with the risk, not be identical for everything.
+3. Gates can move quickly for small/low-risk projects — this isn't meant to be bureaucratic. A gate can be "passed" in a 15-minute conversation for a low-risk idea, and take a full committee review for a high-risk, organization-wide one. The rigor should scale with the risk, not be identical for everything. See [risk tiers](risk-tiers.md) for how to assign a tier and what each tier means for every gate.
 4. Keep a simple log (even a spreadsheet) of which projects are at which gate — this becomes your AI portfolio view.
+5. Agree what "passed" means before each gate, not after. See [gate criteria and metrics](gate-criteria-and-metrics.md) for pass criteria, escalation, and how to measure whether the framework is working.
+
+---
+
+## Where this fits
+
+These gates are the decision rhythm inside a larger system, the AI operating model, which defines the committees and roles that own each gate. See the companion [AI Operating Model Playbook](https://github.com/imransheikh-ai/ai-operating-model-playbook).

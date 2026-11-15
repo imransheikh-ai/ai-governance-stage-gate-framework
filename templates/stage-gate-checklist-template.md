@@ -5,6 +5,10 @@ Copy this file for every new AI project. Fill in each gate as the project reache
 **Project name:**
 **Sponsor:**
 **Date started:**
+**Risk tier (1 Low / 2 Medium / 3 High):**
+**Tier confirmed by:**
+
+*The tier sets how deep each gate goes. See [`docs/risk-tiers.md`](../docs/risk-tiers.md). For pass criteria, see [`docs/gate-criteria-and-metrics.md`](../docs/gate-criteria-and-metrics.md).*
 
 ---
 
@@ -15,6 +19,7 @@ Copy this file for every new AI project. Fill in each gate as the project reache
 - [ ] Rough size of benefit estimated
 - [ ] Rough size of effort/cost estimated
 - [ ] Compared against other candidate ideas in the current portfolio
+- [ ] Risk tier proposed
 - [ ] Decision recorded: **Approved to proceed / Deferred / Rejected**
 
 Reviewer: __________________ Date: __________
@@ -78,7 +83,19 @@ Reviewer: __________________ Date: __________
 
 - [ ] Pilot usage data collected
 - [ ] Results compared against the original business case (Gate 2)
+- [ ] Risk tier re-checked for the wider rollout
 - [ ] Incidents/issues during pilot reviewed
 - [ ] Decision recorded: **Scale fully / Scale partially / Extend pilot / Stop**
 
 Reviewer: __________________ Date: __________
+
+---
+
+## Open conditions
+
+*Use this when a gate is passed with conditions. Each condition is checked at the next gate.*
+
+| Gate | Condition | Owner | Due | Closed |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
